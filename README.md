@@ -5,18 +5,20 @@
 ```javascript
 class NinoHu {
 public:
-    Major MyUndergraduateMajor = Computer Science
+    Major MyUndergraduateMajor = 
+        Computer Science
+    
     enum ProgrammingLanguages = 
-      {Java, C++, Python, Haskell, Ruby, HTML, CSS, Javascript};
+        {Java, C++, Python, Haskell, Ruby, HTML, CSS, Javascript};
   
     enum Tools = 
-      {Unreal Engine, Git, Intellij IDEA, Visual Studio, Visual Studio Code, Adobe Ps/Pr/Ae/Au, Office 365};
+        {Unreal Engine, Git, Intellij IDEA, Visual Studio, Visual Studio Code, Adobe Ps/Pr/Ae/Au, Office 365};
   
     enum SpeakingLanguages = 
-      {English, Chinese, French};
+        {English, Chinese, French};
     
-     enum Interests = 
-      {Computer Graphics, Algorithm Implementation in Games, Game Development, Game Design, Playing All Kinds of Games};
+    enum Interests = 
+        {Computer Graphics, Algorithm Implementation in Games, Game Development, Game Design, Playing All Kinds of Games};
     
     NinoHu() {}
     
