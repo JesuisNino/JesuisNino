@@ -2,6 +2,7 @@
 ### Nino Hu à votre service! Bienvenue dans mes référentiels personnels!
 ### 这里是胡潇锋！欢迎来到我的Github主页！
 
+```javascript
 class NinoHu {
 public:
     Major MyUndergraduateMajor = "Polymer Material and Engineering
@@ -25,4 +26,4 @@ public:
     void introduceMyself() {
         std::cout << "Hi, I'm Nino Hu and game is my life." << std::endl;
     }
-
+```
