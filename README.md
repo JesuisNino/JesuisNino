@@ -5,7 +5,7 @@
 ```javascript
 class NinoHu {
 public:
-    Major MyUndergraduateMajor = "Polymer Material and Engineering
+    Major MyUndergraduateMajor = Computer Science
     enum ProgrammingLanguages = 
       {Java, C++, Python, Haskell, Ruby, HTML, CSS, Javascript};
   
