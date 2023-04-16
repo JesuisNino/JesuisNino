@@ -25,7 +25,8 @@ public:
     ~NinoHu() {}
     
     // Public methods
-    void introduceMyself() {
+    void IntroduceMyself() {
         std::cout << "Hi, I'm Nino Hu and game is my life." << std::endl;
     }
+}
 ```
