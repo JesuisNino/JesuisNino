@@ -5,14 +5,16 @@
 ```javascript
 class NinoHu {
 public:
-    Major MyUndergraduateMajor = 
-        Computer Science
+    Major MyMajor = 
+        BSc Computer Science
+        MSc Immersive Technologies (VR and AR)
+        MRes Biomedical Research (Data Science)
     
     enum ProgrammingLanguages = 
-        {Java, C++, Python, Haskell, Ruby, HTML, CSS, Javascript};
+        {Java, C++, C#, Python, Haskell, Ruby, HTML, CSS, Javascript};
   
     enum Tools = 
-        {Unreal Engine, Git, Intellij IDEA, Visual Studio, Visual Studio Code, Adobe Ps/Pr/Ae/Au, Office 365};
+        {Unreal Engine, Unity, Git, IntelliJ IDEA, Visual Studio, Visual Studio Code, Maya, Adobe Ps/Pr/Ae/Au, Office 365};
   
     enum SpeakingLanguages = 
         {English, Chinese, French};
@@ -26,7 +28,7 @@ public:
     
     // Public methods
     void IntroduceMyself() {
-        std::cout << "Hi, I'm Nino Hu and game is my life." << std::endl;
+        std::cout << "Hello world, I'm Nino Hu." << std::endl;
     }
 }
 ```
