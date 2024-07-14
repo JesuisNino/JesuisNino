@@ -14,13 +14,13 @@ public:
         {Java, C++, C#, Python, Haskell, Ruby, HTML, CSS, Javascript};
   
     enum Tools = 
-        {Unreal Engine, Unity, Git, IntelliJ IDEA, Visual Studio, Visual Studio Code, Maya, Adobe Ps/Pr/Ae/Au, Office 365};
+        {Unreal Engine, Unity, Git, IntelliJ IDEA, Visual Studio, Visual Studio Code, Arduino IDE, Maya, Adobe Ps/Pr/Ae/Au, Office 365};
   
     enum SpeakingLanguages = 
         {English, Chinese, French};
     
     enum Interests = 
-        {Computer Graphics, Algorithm Implementation in Games, Game Development, Game Design, Playing All Kinds of Games};
+        {Data Science, Computer Graphics, Algorithm Implementation, Machine Learning, Hardware Development, Game Development, Game Design, Playing All Kinds of Games};
     
     NinoHu() {}
     
